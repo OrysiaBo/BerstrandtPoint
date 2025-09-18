@@ -57,6 +57,6 @@ Siehe `docs/` Verzeichnis für detaillierte Dokumentation:
 - Verbesserungsvorschläge
 
 ## 🔧 Entwicklung
-**Autor:** Marvin Mayer  
+**Autor:** Marvin Mayer & Orysia Bohachevska  
 **Version:** 4.0.0  
 **Lizenz:** © 2025 Bertrandt AG
